@@ -1,0 +1,26 @@
+Describe yourself in three words, input them separated by commas
+*
+What technical skills do you have? Input them separated by commas
+*
+What AWS Service is an object storage service responsible for storing and retrieving any amount of data anywhere on the internet?
+S3
+What is AWS' orchestration services that is used in EC2, S3, SNS, CloudWatch, and autoscaling?
+Elastic Beanstalk
+What is AWS' data warehouse solution with business intelligence tools?
+Redshift
+What is the phonebook of the internet? 
+DNS
+You are an AWS Solutions Architect. Your company has a successful web application deployed in an AWS Auto Scaling group. The application attracts more and more global customers. However, the application’s performance is impacted. Your manager asks you how to improve the performance and availability of the application. Which of the following AWS services would you recommend? 
+AWS Global Accelerator
+Which of the following is not a category in AWS Trusted Advisor service checks? A. Cost Optimization, B. Fault Tolerance, C. Service Limits, or D. Network Optimization
+D
+How many VPCs can an Internet Gateway be attached to at any given time?
+1
+How many subnets can you have per VPC?
+200
+Where does a user specify the maximum number of instances with the auto-scaling commands?
+Auto-Scaling group
+Suppose a subnet is created and an EC2 instance is launched in the subnet with default settings. Which of the following options will be ready to use on the EC2 instance as soon as it is launched?
+Private IP
+Which service performs the function of terminating an unhealthy instance and replacing it with a new one?
+Fault Tolerance
